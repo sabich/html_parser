@@ -1,0 +1,5453 @@
+[
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "Virbac\u00ae C.E.T.\u00ae Enzymatic Oral Hygiene Care Dog Chews",
+        "attributes": {
+            "Size": [
+                "Medium - $16.99",
+                "Large - $19.59",
+                "Petite - $12.09"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "ARM & HAMMER\u2122 Advanced Pet Care Tarter Control Enzymatic Dog Toothpaste",
+        "attributes": {
+            "Size": [
+                "2.5 FL Oz - $5.79"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "Nylabone\u00ae Advanced Oral Care\u00ae Liquid Dog Tarter Remover",
+        "attributes": {
+            "Size": [
+                "32 Fl Oz - $5.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Oral Care Water Additive",
+        "attributes": {
+            "Size": [
+                "16 Fl Oz - $9.99",
+                "33.8 Fl Oz - $15.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "ARM & HAMMER\u2122 Advanced Care Dog Dental Water Additive",
+        "attributes": {
+            "Size": [
+                "16 Fl Oz - $5.79"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "ARM & HAMMER\u2122 Enzymatic Dog Toothpaste & Brush Set",
+        "attributes": {
+            "Size": [
+                "2.5 FL Oz - $8.29"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "ARM & HAMMER\u2122 Advanced Pet Care Dog Toothpaste & Brush Set",
+        "attributes": {
+            "Size": [
+                "2.5 FL Oz - $8.29"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "ARM & HAMMER\u2122 Advanced Care Puppy Dental Kit",
+        "attributes": {
+            "Size": [
+                "One Size - $7.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "ARM & HAMMER\u2122 Advanced Pet Care Enzymatic Dog Toothpaste",
+        "attributes": {
+            "Size": [
+                "2.5 FL Oz - $5.79"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Advance Whitening Oral Care Water Additive",
+        "attributes": {
+            "Size": [
+                "16 Fl Oz - $12.99",
+                "33.8 Fl Oz - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Dog Oral Care Spray",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $7.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "ARM & HAMMER\u2122 Advance Care Small Breed Dog Toothbrush with Cover",
+        "attributes": {
+            "size": [
+                "1 Count - $3.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Oral Care & Skin & Coat Water Additive",
+        "attributes": {
+            "Size": [
+                "16 Fl Oz - $10.99",
+                "33.8 Fl Oz - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "ARM & HAMMER\u2122 Clinical Pet Care Germ Fighting Dog Toothpaste",
+        "attributes": {
+            "Size": [
+                "2.5 FL Oz - $6.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "ARM & HAMMER\u2122 Advanced Care Enzymatic Dog Toothpaste - Vanilla Ginger",
+        "attributes": {
+            "Size": [
+                "2.5 FL Oz - $5.79"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Clean Teeth Berry Fresh Oral Care Gel",
+        "attributes": {
+            "Size": [
+                "2 Fl Oz - $10.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Advanced Whitening Clean Teeth Gel",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $17.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "ARM & HAMMER\u2122 Advanced Care Dog Dental Spray - Mint",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $5.29"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Puppy Oral Care Kit",
+        "attributes": {
+            "Size": [
+                "One Size - $10.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "Nylabone\u00ae Advanced Oral Care\u00ae Natural Dental Spray",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $4.09"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Oral Care Water Additive Plus Digestion",
+        "attributes": {
+            "Size": [
+                "16 Fl Oz - $13.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "ARM & HAMMER\u2122 Clinical Care Enzymatic Dog Toothpaste - Beef Flavor",
+        "attributes": {
+            "Size": [
+                "2.5 FL Oz - $7.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Peanut Butter Dog Oral Care Spray",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $7.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "ARM & HAMMER\u2122 Advanced Pet Care Tarter Control Dog Dental Spray",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $5.29"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Clean Teeth Oral Care Gel",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $15.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Clean Teeth Peanut Butter Oral Care Gel",
+        "attributes": {
+            "Size": [
+                "2 Fl Oz - $10.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "WHIMZEES Alligator Small Dental Dog Treat - Natural, Gluten Free",
+        "attributes": {
+            "size": [
+                "24 Count - $16.19"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Small Dog Oral Care Kit",
+        "attributes": {
+            "Size": [
+                "One Size - $13.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "Nylabone\u00ae Advanced Oral Care\u00ae Adult Dog Dental Kit",
+        "attributes": {
+            "Size": [
+                "3.2 FL Oz - $5.39"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "ARM & HAMMER\u2122 Fresh Breath Pet Care Brush Set",
+        "attributes": {
+            "Size": [
+                "2.5 FL Oz - $8.29"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "ARM & HAMMER\u2122 Clinical Pet Care Dog Toothpaste & Brush Set",
+        "attributes": {
+            "Size": [
+                "2.5 FL Oz - $8.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "Nylabone\u00ae Advanced Oral Care Senior Dog Dental Kit",
+        "attributes": {
+            "Size": [
+                "One Size - $5.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Triple Flex Dog Toothbrush",
+        "attributes": {
+            "Size": [
+                "One Size - $5.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Dog Oral Care Kit",
+        "attributes": {
+            "Size": [
+                "One Size - $13.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "Nylabone\u00ae Advanced Oral Care\u00ae Natural Foaming Tartar Remover",
+        "attributes": {
+            "Size": [
+                "3 Fl Oz - $7.29"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Dog Drops",
+        "attributes": {
+            "Size": [
+                "2.2 Fl Oz - $5.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "ARM & HAMMER\u2122 Advanced Care Vanilla Ginger Fresh Breath Dog Breath Drops",
+        "attributes": {
+            "Size": [
+                "0.125 Fl Oz - $2.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "Nylabone\u00ae Advanced Oral Care\u00ae Liquid Pet Breath Freshener",
+        "attributes": {
+            "Size": [
+                "16 Fl Oz - $7.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Dog Finger Toothbrushes",
+        "attributes": {
+            "Size": [
+                "One Size - $5.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "Nylabone\u00ae Advanced Oral Care\u00ae Senior Dog Toothpaste",
+        "attributes": {
+            "Size": [
+                "2.5 FL Oz - $7.89"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "ARM & HAMMER\u2122 Clinical Care Travel Dog Dental Kit",
+        "attributes": {
+            "size": [
+                "1 Count - $7.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "ARM & HAMMER\u2122 Advanced Care Chicken Flavor Fresh Breath Dog Breath Drops",
+        "attributes": {
+            "Size": [
+                "0.125 Fl Oz - $2.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "Nylabone\u00ae Advanced Oral Care\u00ae Puppy Dental Kit",
+        "attributes": {
+            "Size": [
+                "3.2 FL Oz - $6.29"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Oral Care Hip & Joint Water Additive",
+        "attributes": {
+            "Size": [
+                "16 Fl Oz - $13.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Clean Teeth Dog Oral Care Gel",
+        "attributes": {
+            "Size": [
+                "2 Fl Oz - $10.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Advanced Whitening Dog Oral Care Kit",
+        "attributes": {
+            "Size": [
+                "One Size - $18.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TruDog\u00ae Spray Me Doggy Dental Spray",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $16.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TruDog\u00ae Gel Me Doggy Dental Gel",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $17.59"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Clean Teeth Vanilla Mint Oral Care Gel",
+        "attributes": {
+            "Size": [
+                "2 Fl Oz - $10.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Clean Teeth Puppy Oral Care Gel",
+        "attributes": {
+            "Size": [
+                "2 Fl Oz - $11.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "Nylabone\u00ae Advanced Oral Care Tartar Control Dog Toothpaste",
+        "attributes": {
+            "Size": [
+                "2.5 FL Oz - $3.19"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "ARM & HAMMER\u2122 Advanced Care Dog Dental Kit",
+        "attributes": {
+            "Size": [
+                "2.5 FL Oz - $12.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "Nylabone\u00ae Advanced Oral Care\u00ae Natural Dog Dental Kit",
+        "attributes": {
+            "size": [
+                "1 Count - $5.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Life\u2122 Calming Aid Dog Supplement",
+        "attributes": {
+            "Size": [
+                "2.5 FL Oz - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "Nylabone\u00ae Advanced Oral Care\u00ae Finger Dog Brush",
+        "attributes": {
+            "size": [
+                "2 Count - $3.19"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "Nylabone\u00ae Advanced Oral Care\u00ae Natural Dog Toothpaste",
+        "attributes": {
+            "Size": [
+                "2.5 FL Oz - $2.59"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "Nylabone\u00ae Advanced Oral Care\u00ae Liquid Dog Tartar Remover",
+        "attributes": {
+            "Size": [
+                "16 Fl Oz - $6.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "Nylabone\u00ae Advanced Oral Care\u00ae Foaming Dog Tartar Remover",
+        "attributes": {
+            "Size": [
+                "3.4 Fl Oz - $11.09"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "ARM & HAMMER\u2122 Advanced Pet Care Breath Strips",
+        "attributes": {
+            "size": [
+                "24 Count - $3.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "Nylabone\u00ae Advanced Oral Care Dental Wipes",
+        "attributes": {
+            "size": [
+                "50 Count - $9.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "Only Natural Pet\u00ae All Smiles Oral Care Spray",
+        "attributes": {
+            "Size": [
+                "1 Fl Oz - $25.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "TropiClean\u00ae Fresh Breath\u00ae Advanced Whitening Small Dog Oral Care Kit",
+        "attributes": {
+            "Size": [
+                "One Size - $18.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Care",
+        "product_name": "Nylabone\u00ae Advanced Oral Care\u00ae Dog Dental Spray",
+        "attributes": {
+            "Size": [
+                "4.8 Fl Oz - $5.59"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Teenie Dental Dog Treat",
+        "attributes": {
+            "size": [
+                "1 Count - $0.45",
+                "11 Count - $4.29",
+                "22 Count - $8.99",
+                "43 Count - $15.99",
+                "96 Count - $27.99",
+                "130 Count - $33.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "PEDIGREE\u00ae DENTASTIX\u00ae Large Dog Treat",
+        "attributes": {
+            "Flavor": [
+                "Bacon"
+            ],
+            "size": [
+                "32 Count - $11.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Regular Dental Dog Treat",
+        "attributes": {
+            "size": [
+                "1 Count - $1.49",
+                "3 Count - $4.29",
+                "6 Count - $8.99",
+                "12 Count - $15.99",
+                "27 Count - $27.99",
+                "36 Count - $33.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Large Dental Dog Treat",
+        "attributes": {
+            "size": [
+                "1 Count - $1.81",
+                "4 Count - $8.99",
+                "8 Count - $15.99",
+                "17 Count - $27.99",
+                "24 Count - $33.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "PEDIGREE\u00ae Dentastix Large Dog Sticks",
+        "attributes": {
+            "Flavor": [
+                "Other"
+            ],
+            "size": [
+                "18 Count - $8.49",
+                "32 Count - $11.59"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Petite Dental Dog Treat",
+        "attributes": {
+            "size": [
+                "1 Count - $0.89",
+                "5 Count - $4.29",
+                "10 Count - $8.99",
+                "20 Count - $15.99",
+                "45 Count - $27.99",
+                "60 Count - $33.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "PEDIGREE\u00ae Dentastix Mini Dog Sticks",
+        "attributes": {
+            "Flavor": [
+                "Chicken"
+            ],
+            "size": [
+                "24 Count - $3.49",
+                "58 Count - $8.49",
+                "84 Count - $11.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "PEDIGREE\u00ae Dentastix Small\/Medium Dog Sticks",
+        "attributes": {
+            "Flavor": [
+                "Other"
+            ],
+            "size": [
+                "25 Count - $8.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Milk-Bone\u00ae Brushing Chews Dental Treats",
+        "attributes": {
+            "Size": [
+                "Small\/Medium - $14.24",
+                "Large - $17.99",
+                "Mini - $15.46"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "PEDIGREE\u00ae Dentastix Large Dog Sticks",
+        "attributes": {
+            "Flavor": [
+                "Fresh"
+            ],
+            "size": [
+                "6 Count - $3.49",
+                "28 Count - $11.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "PEDIGREE\u00ae Dentastix Large Dog Sticks",
+        "attributes": {
+            "Flavor": [
+                "Beef"
+            ],
+            "size": [
+                "7 Count - $3.49",
+                "32 Count - $11.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "PEDIGREE\u00ae DENTASTIX\u00ae Triple Action Large Dog Treat - Variety Pack",
+        "attributes": {
+            "size": [
+                "50 Count - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "BLUE Dental Bones\u2122 Large Dog Treat - Natural",
+        "attributes": {
+            "Size": [
+                "12 Oz - $11.99",
+                "27 Oz - $22.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "BLUE Dental Bones\u2122 Mini Dog Treat - Natural",
+        "attributes": {
+            "Size": [
+                "12 Oz - $11.99",
+                "27 Oz - $22.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "PEDIGREE\u00ae DENTASTIX\u00ae Triple Action Small Dog Treat - Fresh",
+        "attributes": {
+            "Flavor": [
+                "Fresh"
+            ],
+            "size": [
+                "21 Count - $3.49",
+                "51 Count - $8.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Nylabone\u00ae Nutri Dent Limited Ingredients T-Rex Medium Dog Dental Chew - Natural, Filet Mignon",
+        "attributes": {
+            "Flavor": [
+                "Filet Mignon"
+            ],
+            "size": [
+                "16 Count - $11.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Weight Management Teenie Dental Dog Treat",
+        "attributes": {
+            "size": [
+                "43 Count - $15.99",
+                "96 Count - $28.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "BLUE Dental Bones\u2122 Small Dog Treat - Natural",
+        "attributes": {
+            "Size": [
+                "12 Oz - $11.99",
+                "27 Oz - $22.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Virbac\u00ae C.E.T.\u00ae VeggieDent\u00ae Tarter Control Dog Chews",
+        "attributes": {
+            "Size": [
+                "X Small - $8.79",
+                "Small - $19.99",
+                "Medium - $22.29"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Regular Dog Dental Treat - Blueberry",
+        "attributes": {
+            "Size": [
+                "12 Oz - $15.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "PEDIGREE\u00ae DENTASTIX\u00ae Triple Action Dog Treat - Fresh Bites",
+        "attributes": {
+            "Size": [
+                "18 Oz"
+            ],
+            "Flavor": [
+                "Fresh - $8.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Teenie Dental Dog Treat - Fresh",
+        "attributes": {
+            "Flavor": [
+                "Mint"
+            ],
+            "size": [
+                "11 Count - $4.29",
+                "43 Count - $15.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Grain Free Teenie Dental Dog Treat",
+        "attributes": {
+            "size": [
+                "11 Count - $4.79",
+                "43 Count - $17.99",
+                "96 Count - $30.99",
+                "130 Count - $37.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Dingo Dental Sticks Dog Treat - Chicken",
+        "attributes": {
+            "Flavor": [
+                "Chicken"
+            ],
+            "size": [
+                "48 Count - $7.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Nylabone\u00ae Nutri Dent Limited Ingredients T-Rex Medium Dog Dental Chew - Natural, Fresh Breath",
+        "attributes": {
+            "Flavor": [
+                "Fresh"
+            ],
+            "size": [
+                "16 Count - $9.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Milk-Bone\u00ae Brushing Chews Dental Treat",
+        "attributes": {
+            "Size": [
+                "Small\/Medium - $2.69",
+                "Large - $3.49",
+                "Mini - $3.59"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Petite Dental Dog Treat - Variety Pack",
+        "attributes": {
+            "Size": [
+                "36 Oz - $33.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Teenie Dog Dental Treat - Blueberry",
+        "attributes": {
+            "Size": [
+                "12 Oz - $16.79"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Regular Dental Dog Treat - Fresh",
+        "attributes": {
+            "Flavor": [
+                "Mint"
+            ],
+            "size": [
+                "3 Count - $4.29",
+                "12 Count - $15.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Nylabone\u00ae Nutri Dent Limited Ingredients Large Dog Dental Chew - Natural, Filet Mignon Flavor",
+        "attributes": {
+            "Flavor": [
+                "Filet Mignon"
+            ],
+            "size": [
+                "20 Count - $28.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "BLUE Dental Bones\u2122 Regular Dog Treat - Natural",
+        "attributes": {
+            "Size": [
+                "12 Oz - $11.99",
+                "27 Oz - $22.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Teenie Dental Dog Treat - Variety Pack",
+        "attributes": {
+            "Size": [
+                "36 Oz - $33.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "WHIMZEES Veggie Strip Medium Dental Dog Treat - Natural, Gluten Free",
+        "attributes": {
+            "size": [
+                "14 Count - $16.14"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Nylabone\u00ae Primal Instinct\u00ae Chicken Dental Bones - Dog Treat, Large",
+        "attributes": {
+            "size": [
+                "6 Count - $15.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Nylabone\u00ae Nutri Dent Limited Ingredients Mini Dog Dental Chew - Natural, Filet Mignon Flavor",
+        "attributes": {
+            "Flavor": [
+                "Filet Mignon"
+            ],
+            "size": [
+                "32 Count - $7.99",
+                "160 Count - $28.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Large Dental Dog Treat - Fresh",
+        "attributes": {
+            "Flavor": [
+                "Mint"
+            ],
+            "size": [
+                "8 Count - $15.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Breath Buster Bites Dental Dog Treat - Grain Free, Crisp Apple",
+        "attributes": {
+            "Size": [
+                "1.2 Oz",
+                "2.5 Oz",
+                "5.5 Oz",
+                "11 Oz"
+            ],
+            "Flavor": [
+                "Apple - $8.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Large Dental Dog Treat - Blueberry",
+        "attributes": {
+            "Size": [
+                "12 Oz - $15.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Nylabone\u00ae Nutri Dent Limited Ingredients Medium Dog Dental Chew - Natural, Filet Mignon Flavor",
+        "attributes": {
+            "Flavor": [
+                "Filet Mignon"
+            ],
+            "size": [
+                "40 Count - $28.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Nylabone\u00ae Nutri Dent Limited Ingredients Small Dog Dental Chew - Natural, Filet Mignon Flavor",
+        "attributes": {
+            "Flavor": [
+                "Filet Mignon"
+            ],
+            "size": [
+                "10 Count - $7.99",
+                "64 Count - $28.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Nylabone\u00ae Nutri Dent Limited Ingredients Medium Dog Dental Chew - Natural, Fresh Breath",
+        "attributes": {
+            "Flavor": [
+                "Fresh"
+            ],
+            "size": [
+                "20 Count - $18.99",
+                "40 Count - $28.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Nylabone\u00ae Nutri Dent Limited Ingredients Mini Dog Dental Chew - Natural, Fresh Breath",
+        "attributes": {
+            "Flavor": [
+                "Fresh"
+            ],
+            "size": [
+                "32 Count - $7.99",
+                "160 Count - $28.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "WHIMZEES Veggie Sausage Small Dental Dog Treat - Natural",
+        "attributes": {
+            "size": [
+                "28 Count - $16.59"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Nylabone\u00ae Primal Instinct\u00ae Real Meat Dental Bones - Dog Treat, Regular",
+        "attributes": {
+            "size": [
+                "10 Count - $8.99",
+                "20 Count - $15.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Grain Free Regular Dental Dog Treat",
+        "attributes": {
+            "size": [
+                "3 Count - $4.79",
+                "12 Count - $17.99",
+                "27 Count - $30.99",
+                "36 Count - $37.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "WHIMZEES Brushzees Extra Small Dental Dog Treat - Natural, Grain Free",
+        "attributes": {
+            "size": [
+                "48 Count - $16.19"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Grain Free Large Dental Dog Treat",
+        "attributes": {
+            "size": [
+                "8 Count - $17.99",
+                "17 Count - $30.99",
+                "24 Count - $37.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Weight Management Regular Dental Dog Treat",
+        "attributes": {
+            "size": [
+                "12 Count - $15.99",
+                "27 Count - $27.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Weight Management Petite Dental Dog Treat",
+        "attributes": {
+            "size": [
+                "20 Count - $15.99",
+                "45 Count - $27.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Breath Buster Bites Dental Dog Treat - Grain Free, Fresh",
+        "attributes": {
+            "Size": [
+                "1.2 Oz",
+                "2.5 Oz",
+                "5.5 Oz",
+                "11 Oz"
+            ],
+            "Flavor": [
+                "Fresh - $2.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "WHIMZEES Brushzees Small Dental Dog Treat - Natural, Grain Free",
+        "attributes": {
+            "size": [
+                "27 Count - $16.14"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Grain Free Petite Dental Dog Treat",
+        "attributes": {
+            "size": [
+                "5 Count - $4.79",
+                "20 Count - $17.99",
+                "45 Count - $30.99",
+                "60 Count - $37.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Petite Dental Dog Treat - Blueberry",
+        "attributes": {
+            "Size": [
+                "12 Oz - $15.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Nylabone\u00ae Nutri Dent Limited Ingredients Medium Dog Dental Chew - Natural, Coconut Flavor",
+        "attributes": {
+            "Flavor": [
+                "Coconut"
+            ],
+            "size": [
+                "7 Count - $7.99",
+                "20 Count - $18.99",
+                "40 Count - $28.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Breath Buster Bites Dental Dog Treat - Grain Free, Chicken & Parsley",
+        "attributes": {
+            "Size": [
+                "1.2 Oz",
+                "2.5 Oz",
+                "5.5 Oz",
+                "11 Oz"
+            ],
+            "Flavor": [
+                "Chicken - $2.69"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Petite Dental Dog Treat - Fresh",
+        "attributes": {
+            "Flavor": [
+                "Mint"
+            ],
+            "size": [
+                "5 Count - $4.29",
+                "20 Count - $15.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "WHIMZEES Brushzees Medium Dental Dog Treat - Natural, Grain Free",
+        "attributes": {
+            "size": [
+                "12 Count - $16.14"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Nylabone\u00ae Primal Instinct\u00ae Chicken Dental Bones - Dog Treat, Mini",
+        "attributes": {
+            "size": [
+                "72 Count - $15.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "WHIMZEES Veggie Sausage Large Dog Treat - Natural, Vegetarian, Gluten Free",
+        "attributes": {
+            "size": [
+                "7 Count - $16.19"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Regular Dental Dog Treat - Variety Pack",
+        "attributes": {
+            "Size": [
+                "36 Oz - $33.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Milk-Bone\u00ae Brushing Chews\u00ae Dental Dog Treat - Small\/Medium",
+        "attributes": {
+            "Size": [
+                "22 Oz"
+            ],
+            "Flavor": [
+                "Mint - $17.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Nylabone\u00ae Nutri Dent Limited Ingredients Small Dog Dental Chew - Natural, Fresh Breath",
+        "attributes": {
+            "Flavor": [
+                "Fresh"
+            ],
+            "size": [
+                "64 Count - $28.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "PEDIGREE\u00ae Dentastix Small\/Medium Dog Sticks",
+        "attributes": {
+            "Flavor": [
+                "Beef"
+            ],
+            "size": [
+                "10 Count - $3.47"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Large Dental Dog Treat - Variety Pack",
+        "attributes": {
+            "Size": [
+                "36 Oz - $33.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Nylabone\u00ae Primal Instinct\u00ae Real Meat Dental Bones - Dog Treat, Large",
+        "attributes": {
+            "size": [
+                "2 Count - $8.99",
+                "6 Count - $15.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Milk-Bone\u00ae Brushing Chews\u00ae Dental Dog Treat - Large",
+        "attributes": {
+            "Size": [
+                "28.3 Oz"
+            ],
+            "Flavor": [
+                "Mint - $17.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "PEDIGREE\u00ae Dentastix Small\/Medium Dog Sticks",
+        "attributes": {
+            "Flavor": [
+                "Fresh"
+            ],
+            "size": [
+                "9 Count - $3.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Nylabone\u00ae Nutri Dent Limited Ingredients Large Dog Dental Chew - Natural, Fresh Breath",
+        "attributes": {
+            "Flavor": [
+                "Fresh"
+            ],
+            "size": [
+                "10 Count - $18.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "WHIMZEES Alligator Medium Dental Dog Treat - Natural, Gluten Free",
+        "attributes": {
+            "size": [
+                "12 Count - $16.19"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "PEDIGREE\u00ae DENTASTIX\u00ae Fresh Bites Dental Dog Treat",
+        "attributes": {
+            "Size": [
+                "6 Oz - $3.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "WHIMZEES Brushzees Large Dental Dog Treat - Natural, Grain Free",
+        "attributes": {
+            "size": [
+                "6 Count - $16.19"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "PEDIGREE\u00ae DENTASTIX\u00ae Puppy Treat - Chicken",
+        "attributes": {
+            "Flavor": [
+                "Chicken"
+            ],
+            "size": [
+                "21 Count - $3.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Milk-Bone\u00ae Brushing Chews\u00ae Dental Dog Treat - Mini",
+        "attributes": {
+            "Size": [
+                "22 Oz"
+            ],
+            "Flavor": [
+                "Mint - $17.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "PEDIGREE\u00ae Dentastix Mini Dog Sticks",
+        "attributes": {
+            "Flavor": [
+                "Beef"
+            ],
+            "size": [
+                "24 Count - $3.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Authority\u00ae Puppy Teething Sticks Dental Treat - Chicken",
+        "attributes": {
+            "Flavor": [
+                "Chicken"
+            ],
+            "size": [
+                "19 Count - $3.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Authority\u00ae Dental Dog Treats",
+        "attributes": {
+            "Flavor": [
+                "Chicken"
+            ],
+            "Size": [
+                "Regular - $4.99",
+                "Large - $4.99",
+                "Mini - $4.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "WHIMZEES Ricebone Dental Dog Treat - Natural, Gluten Free",
+        "attributes": {
+            "size": [
+                "9 Count - $16.59"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Benebone Dental Dog Chew Toy - Peanut Butter",
+        "attributes": {
+            "Size": [
+                "Regular - $13.07",
+                "Mini - $10.69"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "WHIMZEES Alligator Large Dental Dog Treat - Natural, Gluten Free",
+        "attributes": {
+            "size": [
+                "6 Count - $16.19"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "GREENIES\u00ae Weight Management Large Dental Dog Treat",
+        "attributes": {
+            "size": [
+                "8 Count - $15.99",
+                "17 Count - $27.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Benebone Dental Dog Chew Toy - Chicken",
+        "attributes": {
+            "Size": [
+                "Regular - $12.59",
+                "Mini - $10.69"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Benebone Dental Dog Chew Toy - Bacon",
+        "attributes": {
+            "Size": [
+                "Regular - $12.59",
+                "Mini - $10.69"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "WHIMZEES Stix Medium Dental Dog Treat - Nautral, Gluten Free",
+        "attributes": {
+            "size": [
+                "14 Count - $16.59"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Authority\u00ae Dental Puppy Teething Rings Dog Treat",
+        "attributes": {
+            "size": [
+                "6 Count - $5.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "BLUE Dental Bones\u2122 Mini Puppy Treat - Natural",
+        "attributes": {
+            "size": [
+                "29 Count - $11.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Authority\u00ae Dental Dog Treat",
+        "attributes": {
+            "Flavor": [
+                "Chicken"
+            ],
+            "Size": [
+                "Large - $9.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Get Naked Super Antioxidant Small Dog Dental Treat - Natural, Grain Free, Chicken",
+        "attributes": {
+            "Size": [
+                "6.2 Oz"
+            ],
+            "Flavor": [
+                "Chicken - $3.59"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Get Naked Joint Health Small Dog Dental Treat - Natural, Grain Free, Chicken",
+        "attributes": {
+            "Size": [
+                "6.2 Oz"
+            ],
+            "Flavor": [
+                "Chicken - $3.59"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Get Naked Digestive Health Small Dog Dental Treat - Natural, Grain Free, Chicken",
+        "attributes": {
+            "Size": [
+                "6.2 Oz"
+            ],
+            "Flavor": [
+                "Chicken - $3.79"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Get Naked Weight Management Small Dog Dental Treat - Natural, Grain Free, Chicken",
+        "attributes": {
+            "Size": [
+                "6.2 Oz"
+            ],
+            "Flavor": [
+                "Chicken - $3.69"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Natural Balance Grain Free Fresh & Clean Medium Dog Dental Chews",
+        "attributes": {
+            "Size": [
+                "13 Oz"
+            ],
+            "Flavor": [
+                "Mint - $15.79"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Natural Balance Grain Free Fresh & Clean Small Dog Dental Chews",
+        "attributes": {
+            "Size": [
+                "13 Oz"
+            ],
+            "Flavor": [
+                "Mint - $15.79"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Natural Balance Limited Ingredient Grain Free Duck Meal Med\/Large Dog Dental Chews",
+        "attributes": {
+            "Size": [
+                "13 Oz"
+            ],
+            "Flavor": [
+                "Duck Meal - $15.79"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Dental Treats",
+        "product_name": "Natural Balance Limited Ingredient Grain Free Duck Meal Small\/Med Dog Dental Chews",
+        "attributes": {
+            "Size": [
+                "13 Oz"
+            ],
+            "Flavor": [
+                "Duck Meal - $15.79"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Smart Pet Love Snuggle Puppy\u2122 Behavioral Aid Dog Toy",
+        "attributes": {
+            "Size": [
+                "One Size - $39.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Grannick's Bitter Apple\u00ae Deterrent Pet Spray",
+        "attributes": {
+            "Size": [
+                "8 Fl Oz - $6.19",
+                "16 Fl Oz - $5.39"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Hip & Joint Large Breed Dog Chewable Tablets - Bacon",
+        "attributes": {
+            "size": [
+                "120 Count"
+            ],
+            "Flavor": [
+                "Bacon - $69.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Naturals Hip & Joint Tender Dog Bites - Chicken",
+        "attributes": {
+            "Size": [
+                "8 Fl Oz"
+            ],
+            "Flavor": [
+                "Chicken - $16.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Senior Hip & Joint Ages 7+ Dog Chewables",
+        "attributes": {
+            "size": [
+                "120 Count - $33.59",
+                "180 Count - $54.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Hip & Joint Health Senior Dog Chewable Tablets - Bacon",
+        "attributes": {
+            "size": [
+                "240 Count"
+            ],
+            "Flavor": [
+                "Bacon - $71.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Naturals Skin & Coat Formula Tender Dog Bites - Chicken",
+        "attributes": {
+            "Size": [
+                "8 Oz - $16.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Skin & Coat Essentials Dog Soft Chews",
+        "attributes": {
+            "size": [
+                "60 Count - $21.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Adult Hip & Joint Ages 5+ Dog Chewables",
+        "attributes": {
+            "size": [
+                "120 Count - $31.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Skin & Coat Essentials Mini Dog Bones - Duck",
+        "attributes": {
+            "size": [
+                "60 Count - $21.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Cosequin\u00ae Nutramax Professional Joint Health Dog Supplement",
+        "attributes": {
+            "size": [
+                "60 Count"
+            ],
+            "Flavor": [
+                "Other - $24.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Only Natural Pet\u00ae Just Relax Herbal Calming Support Soft Dog Chews",
+        "attributes": {
+            "size": [
+                "60 Count - $17.79"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "SENTRY\u00ae WORM X PLUS\u00ae 7 Way Broad Spectrum Dog De-Wormer - 2 Pack",
+        "attributes": {
+            "Size": [
+                "6 Lb - $10.91",
+                "25 Lb - $20.29"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Hip & Joint Health Senior Dog Chewable Tablets - Beef",
+        "attributes": {
+            "size": [
+                "60 Count",
+                "120 Count",
+                "180 Count",
+                "240 Count"
+            ],
+            "Flavor": [
+                "Beef - $75.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Naturals Hip & Joint Advanded Tender Dog Bites - Chicken",
+        "attributes": {
+            "Size": [
+                "8 Oz"
+            ],
+            "Flavor": [
+                "Chicken - $24.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "SENTRY\u00ae WORM X PLUS\u00ae 7 Way Broad Spectrum De-Wormer for Dogs - 6 Pack",
+        "attributes": {
+            "Size": [
+                "6 Lb - $18.92",
+                "25 Lb - $36.17"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Dog Essentials Eye & Face Care Wipes",
+        "attributes": {
+            "size": [
+                "50 Count - $9.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Cosequin\u00ae Nutramax Professional Joint Health Dog Supplement",
+        "attributes": {
+            "size": [
+                "75 Count - $21.09"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Anti Diarrhea Liquid with Kaolin & Pectin",
+        "attributes": {
+            "Size": [
+                "8 Fl Oz - $16.19"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Hip & Joint Health Mini Dog Bone",
+        "attributes": {
+            "size": [
+                "60 Count"
+            ],
+            "Flavor": [
+                "Chicken - $32.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Dog MD Maximum Defense\u2122 ADVANCED Hip & Joint Dog Chewables",
+        "attributes": {
+            "size": [
+                "60 Count - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Hip & Joint Health Adult Dog Chewable Tablets - Beef",
+        "attributes": {
+            "size": [
+                "60 Count",
+                "120 Count",
+                "180 Count",
+                "240 Count"
+            ],
+            "Flavor": [
+                "Beef - $29.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Mega Dog Aspirin Chewable Tablets - Beef",
+        "attributes": {
+            "size": [
+                "60 Count - $10.99",
+                "120 Count - $20.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Dog Essentials Eye & Face Care Wipes",
+        "attributes": {
+            "size": [
+                "25 Count - $2.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Dog MD Maximum Defense\u2122 Ear Mite & Tick Treatment",
+        "attributes": {
+            "Size": [
+                "3 Fl Oz - $8.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Tear Stain Remover Dog Pads",
+        "attributes": {
+            "size": [
+                "90 Count - $10.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Coprophagia Deterrence Dog Chewables",
+        "attributes": {
+            "size": [
+                "75 Count - $11.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Digestive Health Complex Chewable Dog Tablets",
+        "attributes": {
+            "size": [
+                "90 Count - $21.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "The Missing Link Hip & Joint Dog Food Supplement",
+        "attributes": {
+            "Size": [
+                "1 Lb",
+                "5 Lb"
+            ],
+            "Flavor": [
+                "Other - $59.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Cosequin\u00ae Double Strength Joint Health Dog Chewable",
+        "attributes": {
+            "size": [
+                "110 Count - $27.25",
+                "250 Count - $63.50"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Mega Shedding Dog Formula",
+        "attributes": {
+            "Size": [
+                "32 Fl Oz - $39.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Pet Nursing Kit",
+        "attributes": {
+            "Size": [
+                "2 Fl Oz - $6.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Naturals Calming Dog Tender Bites - Chicken",
+        "attributes": {
+            "Size": [
+                "8 Oz - $16.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Bayer Tapeworm Dewormer Tablets for Dogs",
+        "attributes": {
+            "size": [
+                "5 Count - $27.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Probiotics Digestive Support Dog Capsules",
+        "attributes": {
+            "size": [
+                "90 Count - $18.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega FishOil Plus Hip & Joint Support Liquid Formula",
+        "attributes": {
+            "Size": [
+                "16 Fl Oz"
+            ],
+            "Flavor": [
+                "Beef - $39.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Dog Paw Pad Protector",
+        "attributes": {
+            "Size": [
+                "2 Oz - $10.19"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Burt's Bees\u2122 Relieving Ear Dog Rinse - Chamomile & Rosemary",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $8.29"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Only Natural Pet\u00ae Get Up & Go Joint Senior Vitality Support Soft Dog Chews",
+        "attributes": {
+            "size": [
+                "60 Count - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Liquid-Vet\u00ae Hip & Joint Dog Formula",
+        "attributes": {
+            "Size": [
+                "8 Fl Oz",
+                "32 Fl Oz"
+            ],
+            "Flavor": [
+                "Chicken - $12.99",
+                "Pot Roast - $12.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Skin & Coat Essentials Adult Dog Chewable Tablets - Beef",
+        "attributes": {
+            "size": [
+                "60 Count - $13.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Adaptil\u00ae Calm On-the-Go Dog Collar",
+        "attributes": {
+            "Size": [
+                "Small\/Medium - $24.99",
+                "Medium\/Large - $24.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Licks\u00ae ElderDog\u2122 Mobility + Digestion Dog Supplement",
+        "attributes": {
+            "size": [
+                "10 Count - $16.99",
+                "30 Count - $32.48"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Fish Oil Professional Strength",
+        "attributes": {
+            "Size": [
+                "8 Fl Oz - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Hip & Joint Health Senior Dog Formula",
+        "attributes": {
+            "Size": [
+                "8 Fl Oz"
+            ],
+            "Flavor": [
+                "Beef - $20.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Adult Hip & Joint Dog Chewables",
+        "attributes": {
+            "size": [
+                "120 Count - $25.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Bladder Support Dog Chewables",
+        "attributes": {
+            "size": [
+                "90 Count - $12.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Greenies\u00ae Hip & Joint Care Petite Dental Dog Treat",
+        "attributes": {
+            "size": [
+                "10 Count - $9.99",
+                "45 Count - $30.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Clean Ear Dog Pads",
+        "attributes": {
+            "size": [
+                "90 Count - $11.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Hip & Joint Health Mini Dog Bone",
+        "attributes": {
+            "Flavor": [
+                "Chicken - $5.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Medicated Anti-Bacterial & Anti-Fungal Dog Spray",
+        "attributes": {
+            "Size": [
+                "10 Fl Oz - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Dog Essentials Ear Care Wipes",
+        "attributes": {
+            "size": [
+                "50 Count - $9.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Calming Formula Mini Dog Bone",
+        "attributes": {
+            "size": [
+                "10 Count - $5.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Dog & Cat MD\u2122 Maximum Defense Ear Rinse",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $7.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Canine Aspirin Large Breed Dog Chewables",
+        "attributes": {
+            "size": [
+                "120 Count - $15.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Alaska Wild\u00ae Salmon Oil for Dogs",
+        "attributes": {
+            "Size": [
+                "18 Fl Oz - $22.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Greenies\u00ae Hip & Joint Care Regular Dental Dog Treat",
+        "attributes": {
+            "size": [
+                "6 Count - $9.99",
+                "27 Count - $30.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Mega Hip & Joint Health Dog Chewable Tablets",
+        "attributes": {
+            "size": [
+                "60 Count",
+                "180 Count"
+            ],
+            "Flavor": [
+                "Peanut Butter - $20.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Bayer Quad Dewormer Chewable Tablets for Large Dogs",
+        "attributes": {
+            "size": [
+                "2 Count - $49.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Bayer Expert Care Dog Ear Cleansing Rinse",
+        "attributes": {
+            "Size": [
+                "One Size - $9.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Bayer Quad Dewormer Chewable Tablets for Small Dogs",
+        "attributes": {
+            "size": [
+                "4 Count - $21.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Pet Pill Gun Dispenser",
+        "attributes": {
+            "size": [
+                "1 Count - $9.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "MicrocynAH\u00ae Opthalmic Pet Gel",
+        "attributes": {
+            "Size": [
+                "3 Fl Oz - $12.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Clean Ear Cleansing Dog Liquid",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $7.69"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Dog MD Maximum Defense\u2122 Hot Spot Skin Remedy",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $8.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "SENTRY\u00ae HC WORM X DS\u00ae Canine Anthelmintic Suspension for Dogs",
+        "attributes": {
+            "Size": [
+                "2 Fl Oz - $8.81"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Calm Paws Behavior Support\u2122 Caring Dog Collar with Calming Gel Patch",
+        "attributes": {
+            "Size": [
+                "X Small - $34.99",
+                "Small - $22.59",
+                "Medium - $39.99",
+                "Large - $31.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Calming Formula Mini Dog Bones - Chicken",
+        "attributes": {
+            "size": [
+                "60 Count - $21.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Salmon Oil Alaska Wild\u2122 Dog Softgels",
+        "attributes": {
+            "size": [
+                "90 Count - $16.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Only Natural Pet\u00ae Easy Strider Daily Joint Support Chewable Tablets",
+        "attributes": {
+            "size": [
+                "90 Count - $16.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Top Paw\u00ae Itch Ease Medicated Dog Spray - Lavender Scent",
+        "attributes": {
+            "Size": [
+                "1 Fl Oz - $1.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Calm Paws Behavior Support\u2122 Relax & Recover\u2122 Dog Shirt",
+        "attributes": {
+            "Size": [
+                "X Small\/Small - $29.99",
+                "Small\/Medium - $32.99",
+                "Large - $34.99",
+                "X Large - $37.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Urinary Support Chewable Dog Tablets - Chicken",
+        "attributes": {
+            "size": [
+                "90 Count - $16.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Calming Chewable Dog Tablets for Large Breed - Beef",
+        "attributes": {
+            "size": [
+                "30 Count - $10.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Pet-EZE\u2122 Dog Calming Soft Chews",
+        "attributes": {
+            "size": [
+                "120 Count - $13.59"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "SENTRY\u00ae Calming Collar for Dogs - Lavendar Chamomile",
+        "attributes": {
+            "size": [
+                "1 Count - $17.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Dog Rocks\u00ae Lawn Burn Patch Preventative",
+        "attributes": {
+            "Size": [
+                "One Size - $12.09"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Calming Formula Dog Chewable Tablets - Beef",
+        "attributes": {
+            "size": [
+                "90 Count - $15.99",
+                "180 Count - $22.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "ThunderSpray\u00ae Insanely Calm\u2122 Pheromone Calming Dog Spray",
+        "attributes": {
+            "Size": [
+                "1 Fl Oz - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "The Missing Link Skin & Coat Dog Food Supplement",
+        "attributes": {
+            "Size": [
+                "1 Lb - $17.49",
+                "5 Lb - $55.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Superfood Complex Plus Joint Health Senior Dog Chewable Tablets",
+        "attributes": {
+            "size": [
+                "60 Count",
+                "120 Count"
+            ],
+            "Flavor": [
+                "Peanut Butter - $27.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Styptic Dog Powder",
+        "attributes": {
+            "Size": [
+                "0.5 Oz - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Adaptil\u00ae Starter Kit",
+        "attributes": {
+            "Size": [
+                "One Size - $39.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "TropiClean\u00ae Life\u2122 Skin & Coat Dog Supplement",
+        "attributes": {
+            "Size": [
+                "2.5 FL Oz - $11.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Dog MD Maximum Defense\u2122 Joint Health Dog Supplement Plus MSM",
+        "attributes": {
+            "size": [
+                "60 Count - $23.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Greenies\u00ae Hip & Joint Care Teenie Dental Dog Treat",
+        "attributes": {
+            "size": [
+                "22 Count - $10.29",
+                "96 Count - $30.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "SENTRY\u00ae Good Behavior\u00ae Calming Dog Chews",
+        "attributes": {
+            "Size": [
+                "13.2 Oz - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Adult-Max Care Hip & Joint Soft Dog Chews",
+        "attributes": {
+            "size": [
+                "50 Count - $21.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Burt's Bees\u2122 Paw & Nose Relieving Dog Lotion - Chamomile & Rosemary",
+        "attributes": {
+            "Size": [
+                "6 Oz - $9.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Tear Stain Remover Cleansing Liquid",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $7.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Licks\u00ae Skin & Allergy + Shiny Coat Anti-Inflammatory Dog Supplement",
+        "attributes": {
+            "size": [
+                "10 Count - $14.99",
+                "30 Count - $39.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Only Natural Pet\u00ae Aller Free Advanced Allergy Support Soft Dog Chews",
+        "attributes": {
+            "size": [
+                "60 Count - $24.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Licks\u00ae ZEN\u2122 Calming Remedy Anti-Anxiety Dog Supplement",
+        "attributes": {
+            "size": [
+                "5 Count - $14.99",
+                "15 Count - $39.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Senior Hip & Joint Ages 7+ Dog Chewables",
+        "attributes": {
+            "size": [
+                "60 Count - $24.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Licks\u00ae Littles Zen Calming Aid Supplements",
+        "attributes": {
+            "size": [
+                "10 Count - $12.99",
+                "30 Count - $29.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Small Breed Hip & Joint Ages 3+ Dog Chewables",
+        "attributes": {
+            "size": [
+                "60 Count - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Licks\u00ae Littles\u2122 Skin & Allergy + Shiny Healthy Dog Supplements",
+        "attributes": {
+            "size": [
+                "10 Count - $12.99",
+                "30 Count - $29.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Self-Adherent Pet Wrap",
+        "attributes": {
+            "size": [
+                "1 Count - $3.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Droppers for Oral Feeding & Medicating",
+        "attributes": {
+            "size": [
+                "2 Count - $8.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Dog MD Maximum Defense\u2122 Joint Health Supplement - Standard Strength",
+        "attributes": {
+            "size": [
+                "75 Count - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Burt's Bees\u2122 Relieving Itch & Hot Spot Dog Spray - Chamomile & Rosemary",
+        "attributes": {
+            "Size": [
+                "12 Fl Oz - $8.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Adult Hip & Joint Ages 5+ Dog Chewables",
+        "attributes": {
+            "size": [
+                "60 Count - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Allergy Support Dog Chewables",
+        "attributes": {
+            "size": [
+                "90 Count - $13.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Only Natural Pet\u00ae Vital Digest Daily Digestive Enzyme Supplement",
+        "attributes": {
+            "Size": [
+                "One Size - $9.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Only Natural Pet\u00ae Pet Tear Stain Remover",
+        "attributes": {
+            "Size": [
+                "3.5 Oz - $12.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Shedding Formula Chewable Dog Tablets - Beef",
+        "attributes": {
+            "size": [
+                "60 Count - $13.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Hip & Joint Health Soft Chews",
+        "attributes": {
+            "size": [
+                "60 Count"
+            ],
+            "Flavor": [
+                "Bacon - $32.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "SENTRY\u00ae Calming Spray for Dogs - Lavender Chamomile",
+        "attributes": {
+            "Size": [
+                "1 Fl Oz - $17.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Greenies\u00ae Hip & Joint Care Large Dental DogTreat",
+        "attributes": {
+            "size": [
+                "4 Count - $9.99",
+                "17 Count - $30.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "earthbath\u00ae Shed Control Pet Wipes - Green Tea & Awapuhi",
+        "attributes": {
+            "size": [
+                "72 Count - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Mega Hip & Joint Senior Dog Chewable Tablets - Beef",
+        "attributes": {
+            "size": [
+                "300 Count"
+            ],
+            "Flavor": [
+                "Beef - $54.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Licks\u00ae Mobility Gummi Vits for Dogs",
+        "attributes": {
+            "size": [
+                "90 Count - $32.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "HomeoPet\u00ae Worm Clear Treatment",
+        "attributes": {
+            "Size": [
+                "One Size - $9.39"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Liquid Bandage Spray-On Formula",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $10.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Oral Syringe Liquid Dispenser for Pets",
+        "attributes": {
+            "Size": [
+                "One Size - $5.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Burt's Bees\u2122 Itch-Soothing Dog Spray - Honeysuckle",
+        "attributes": {
+            "Size": [
+                "10 Fl Oz - $6.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Licks\u00ae Littles\u2122 Joint + Heart Dog Supplements",
+        "attributes": {
+            "size": [
+                "10 Count - $12.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "MicrocynAH\u00ae Wound & Skin Pet Care",
+        "attributes": {
+            "Size": [
+                "3 Fl Oz - $12.99",
+                "8 Fl Oz - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Hydrocortisone Medicated Dog Spray",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $13.59"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Adaptil\u00ae Spray",
+        "attributes": {
+            "Size": [
+                "60 mL - $34.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Only Natural Pet\u00ae Skin Wellness Chewable Tablets",
+        "attributes": {
+            "size": [
+                "90 Count - $10.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Calm Paws Behavior Support\u2122 Calming Dog Collar",
+        "attributes": {
+            "size": [
+                "1 Count - $15.39"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "HomeoPet\u00ae Nose Relief",
+        "attributes": {
+            "Size": [
+                "One Size - $10.19"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Only Natural Pet\u00ae Canine Bladder Control Chewable Tablets",
+        "attributes": {
+            "size": [
+                "90 Count - $32.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "MicrocynAH\u00ae Hot Spot Spray Pet Gel",
+        "attributes": {
+            "Size": [
+                "8 Fl Oz - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Medicated Hot Spot Dog Spray",
+        "attributes": {
+            "Size": [
+                "12 Fl Oz - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "MicrocynAH\u00ae Ear & Eye Pet Wash",
+        "attributes": {
+            "Size": [
+                "3 Fl Oz - $12.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Only Natural Pet\u00ae Just Relax Botanical Calming Dog Spray",
+        "attributes": {
+            "Size": [
+                "3.4 Fl Oz - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "HomeoPet\u00ae Bug Bite Itching Treatment",
+        "attributes": {
+            "Size": [
+                "One Size - $7.36"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Hydrocortisone Dog Lotion",
+        "attributes": {
+            "Size": [
+                "4 Oz - $13.59"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "HomeoPet\u00ae Liver Rescue Treatment",
+        "attributes": {
+            "Size": [
+                "One Size - $8.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Mega Hip & Joint Health Chewable Dog Tablets - Beef",
+        "attributes": {
+            "size": [
+                "60 Count"
+            ],
+            "Flavor": [
+                "Beef - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "MicrocynAH\u00ae Anti_itch Pet Hydrogel",
+        "attributes": {
+            "Size": [
+                "8 Fl Oz - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "SENTRY\u00ae Good Behavior\u2122 Calming Dog Ointment",
+        "attributes": {
+            "Size": [
+                "1.5 Oz - $11.69"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Adaptil\u00ae Diffuser Refill - 30 Day",
+        "attributes": {
+            "Size": [
+                "One Size - $24.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "HomeoPet\u00ae Cough Relief",
+        "attributes": {
+            "Size": [
+                "One Size - $8.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Licks\u00ae Calming Gummi Vits for Dogs",
+        "attributes": {
+            "size": [
+                "90 Count - $43.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "TropiClean\u00ae Oxy-Med\u00ae Anti-Itch Soothing Dog Spray",
+        "attributes": {
+            "Size": [
+                "8 Fl Oz - $11.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Licks\u00ae Digestion Gas & Bloating Dog Supplement",
+        "attributes": {
+            "size": [
+                "10 Count - $16.99",
+                "30 Count - $29.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Only Natural Pet\u00ae Tummy Relief Liquid",
+        "attributes": {
+            "Size": [
+                "One Size - $30.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Calm Paws Behavior Support\u2122 Calming Gel Patch for Dogs",
+        "attributes": {
+            "size": [
+                "1 Count - $12.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Licks\u00ae Littles\u2122 Calming Gummis for Dogs",
+        "attributes": {
+            "size": [
+                "45 Count - $36.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Bayer Quad Dewormer Chewable Tablets for Medium Dogs",
+        "attributes": {
+            "size": [
+                "2 Count - $32.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "HomeoPet\u00ae Hot Spot Relief",
+        "attributes": {
+            "Size": [
+                "One Size - $7.09"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Only Natural Pet\u00ae Tract-Ease Herbal Formula",
+        "attributes": {
+            "Size": [
+                "2 Fl Oz - $17.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "HomeoPet\u00ae Skin & Itch Relief",
+        "attributes": {
+            "Size": [
+                "One Size - $8.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "earthbath\u00ae Hot Spot Relief Pet Wipes - Tea Tree Oil & Aloe Vera",
+        "attributes": {
+            "size": [
+                "100 Count - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "SENTRY\u00ae Good Behavior\u00ae Calming Dog Drops",
+        "attributes": {
+            "size": [
+                "6 Count - $13.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Only Natural Pet\u00ae Gentle Care Pet Eye Care Rinse",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $11.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Eye Envy Ultimate Tear Stain Removal Pet System",
+        "attributes": {
+            "Size": [
+                "One Size - $39.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Dog MD Maximum Defense\u2122 Anti-Itch Spray",
+        "attributes": {
+            "Size": [
+                "8.4 Fl Oz - $12.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "earthbath\u00ae Hot Spot & Itch Relief Pet Spray - Tea Tree Oil",
+        "attributes": {
+            "Size": [
+                "8 Fl Oz - $8.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Skin & Coat Essentials Mini Dog Bone",
+        "attributes": {
+            "Size": [
+                "1.23 Oz - $5.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Licks\u00ae Pain Reflief for Dogs",
+        "attributes": {
+            "size": [
+                "30 Count - $39.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "SENTRY\u00ae Good Behavior\u00ae Cuddlin' Companion Bear Dog Toy",
+        "attributes": {
+            "size": [
+                "1 Count - $12.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Only Natural Pet\u00ae GI Support Capsules",
+        "attributes": {
+            "size": [
+                "120 Count - $36.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "SENTRY\u00ae Calming Diffuser for Dogs",
+        "attributes": {
+            "Size": [
+                "1.62 Fl Oz - $30.59"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "HomeoPet\u00ae Joint Stress Relief",
+        "attributes": {
+            "Size": [
+                "One Size - $8.69"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "HomeoPet\u00ae Digestive Upsets Relief",
+        "attributes": {
+            "Size": [
+                "One Size - $9.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Licks\u00ae ZEN\u2122 Calming Aid Dog Supplement",
+        "attributes": {
+            "size": [
+                "5 Count - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Only Natural Pet\u00ae Ear Wash",
+        "attributes": {
+            "Size": [
+                "4 Oz - $9.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Eye Envy Dog Tear Stain Removal Deluxe Starter Kit",
+        "attributes": {
+            "Size": [
+                "One Size - $42.50"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Vet's Best\u00ae Hot Spot Dog Spray",
+        "attributes": {
+            "Size": [
+                "8 Fl Oz - $11.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Dog MD Maximum Defense\u2122 Hydrocortisone Spray",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $12.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Calming Formula Dog Soft Chew - Beef",
+        "attributes": {
+            "size": [
+                "60 Count - $21.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Hip & Joint Health Dog Soft Chews",
+        "attributes": {
+            "size": [
+                "120 Count"
+            ],
+            "Flavor": [
+                "Beef - $60.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Vet's Best\u00ae Allergy Itch Relief Dog Spray",
+        "attributes": {
+            "Size": [
+                "8 Fl Oz - $8.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "HomeoPet\u00ae Anxiety Relief",
+        "attributes": {
+            "Size": [
+                "One Size - $9.79"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Calm Paws Behavior Support\u2122 Calming Disk Glow-in-the-Dark Collar Medallion",
+        "attributes": {
+            "Size": [
+                "One Size - $12.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "HomeoPet\u00ae Anxiety Relief",
+        "attributes": {
+            "Size": [
+                "One Size - $9.79"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "TropiClean\u00ae Oxy-Med\u00ae Medicated Soothing Dog Spray",
+        "attributes": {
+            "Size": [
+                "8 Fl Oz - $12.82"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Hot Spot Itching & Scratching Relief Dog Spray",
+        "attributes": {
+            "Size": [
+                "8 Fl Oz - $11.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "HomeoPet\u00ae Leaks No More Relief",
+        "attributes": {
+            "Size": [
+                "One Size - $8.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Vet's Best\u00ae Ear Relief Wash\u2122 for Dogs",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $10.99",
+                "16 Fl Oz - $10.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Licks\u00ae Littles\u2122 Skin & Allergy + Shiny Coat Gummis for Dogs",
+        "attributes": {
+            "size": [
+                "45 Count - $36.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Only Natural Pet\u00ae Just Relax Botanical Calming Dog Medallion",
+        "attributes": {
+            "size": [
+                "2 Count - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Smart Pet Love Snuggle Puppy\u2122 Replacement Heat Packs",
+        "attributes": {
+            "size": [
+                "6 Count - $15.99",
+                "12 Count - $27.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Vetericyn Wound & Infection Treatment Pet Spray",
+        "attributes": {
+            "Size": [
+                "8 Fl Oz - $23.99",
+                "16 Fl Oz - $31.35"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Only Natural Pet\u00ae Skin & Itch Homeopathic Formula",
+        "attributes": {
+            "Size": [
+                "1 Fl Oz - $23.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Kurgo\u00ae Pet First Aid Kit",
+        "attributes": {
+            "Size": [
+                "One Size - $26.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "TruDog\u00ae Complete Me Anti-Inflammatory & Anti-Oxidant Dog Supplement",
+        "attributes": {
+            "Size": [
+                "One Size - $66.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "TruPet\u00ae Clear Me Pet Ear Care",
+        "attributes": {
+            "Size": [
+                "One Size - $10.29"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Smart Pet Love Snuggle Puppy\u2122 New Puppy Starter Kit",
+        "attributes": {
+            "Size": [
+                "One Size - $74.95"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Smart Pet Love Snuggle Puppy\u2122 Replacement Heart",
+        "attributes": {
+            "Size": [
+                "One Size - $17.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Smart Pet Love Snuggle Puppy\u2122 Behavioral Aid Dog Toy",
+        "attributes": {
+            "Size": [
+                "One Size - $44.95"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Vet's Best\u00ae Ear Relief Dry\u2122 for Dogs",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $6.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Skin & Coat Small Breed Soft Chews",
+        "attributes": {
+            "size": [
+                "60 Count - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Adult Hip & Joint Ages 3+ Dog Chewables",
+        "attributes": {
+            "size": [
+                "60 Count - $16.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Dog MD Maximum Defense\u2122 Joint Health Supplement Plus Vitamins & Minerals - Advanced Strength",
+        "attributes": {
+            "size": [
+                "30 Count - $18.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Dog MD\u2122 Maximum Defense Sterile Eye Wash",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Dog MD\u2122Maximum Defense Antimicrobial Wound Cream",
+        "attributes": {
+            "Size": [
+                "4 Fl Oz - $10.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "TruDog\u00ae Calm Me Calming support Dog Chew",
+        "attributes": {
+            "Size": [
+                "One Size - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Only Natural Pet\u00ae Glucosamine + Asta Joint Support Capsules",
+        "attributes": {
+            "size": [
+                "90 Count - $36.89"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "SENTRY\u00ae Good Behavior\u00ae Cuddlin' Companion Bone Dog Toy",
+        "attributes": {
+            "size": [
+                "1 Count - $12.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Hip & Joint Health Dog Soft Chews - Beef",
+        "attributes": {
+            "size": [
+                "60 Count"
+            ],
+            "Flavor": [
+                "Beef - $32.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Wisdom Panel Breed Identification Dog DNA Test",
+        "attributes": {
+            "Size": [
+                "One Size - $89.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "SENTRY\u00ae Calming Diffuser Refills for Dogs - Lavender Chamomile",
+        "attributes": {
+            "Size": [
+                "1.5 Fl Oz - $19.79"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Adult Hip & Joint Ages 3+ Dog Chewables",
+        "attributes": {
+            "size": [
+                "120 Count - $29.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "SENTRY\u00ae Calming Collar for Dogs - Lavendar Chamomile",
+        "attributes": {
+            "size": [
+                "3 Count - $44.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Hydrocortisone Medicated Dog Shampoo",
+        "attributes": {
+            "Size": [
+                "8 Fl Oz - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "Bayer Expert Care Tapeworm Dewormer Dog Tablets",
+        "attributes": {
+            "size": [
+                "5 Count - $27.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Treatments",
+        "product_name": "GNC Pets\u00ae Ultra Mega Hip & Joint Health Adult Dog Chewable Tablets - Peanut Butter",
+        "attributes": {
+            "size": [
+                "120 Count"
+            ],
+            "Flavor": [
+                "Peanut Butter - $54.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Adult Hip & Joint Ages 5+ Dog Chewables",
+        "attributes": {
+            "size": [
+                "120 Count - $31.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Cosequin\u00ae Nutramax Professional Joint Health Dog Supplement",
+        "attributes": {
+            "size": [
+                "60 Count - $27.98"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Ultra Mega Multivitamin Plus Dog Soft Chews - Beef",
+        "attributes": {
+            "size": [
+                "60 Count"
+            ],
+            "Flavor": [
+                "Beef - $21.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Probiotics Digestive Support Dog Capsules",
+        "attributes": {
+            "size": [
+                "90 Count - $18.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Senior Hip & Joint Ages 7+ Dog Chewables",
+        "attributes": {
+            "size": [
+                "60 Count - $24.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Ultra Mega Multivitamin Plus Adult Dog Chewable Tablets - Beef",
+        "attributes": {
+            "size": [
+                "60 Count",
+                "120 Count",
+                "180 Count",
+                "300 Count"
+            ],
+            "Flavor": [
+                "Beef - $15.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GREENIES\u00ae Pill Pockets\u00ae Dog Treats for Capsules - Chicken",
+        "attributes": {
+            "size": [
+                "30 Count",
+                "60 Count"
+            ],
+            "Flavor": [
+                "Chicken - $16.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GREENIES\u00ae Pill Pockets\u00ae Dog Treats for Capsules - Peanut Butter",
+        "attributes": {
+            "size": [
+                "30 Count"
+            ],
+            "Flavor": [
+                "Peanut Butter - $8.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GREENIES\u00ae Pill Pockets\u00ae Dog Treats for Capsules - Hickory Smoke",
+        "attributes": {
+            "size": [
+                "30 Count",
+                "60 Count"
+            ],
+            "Flavor": [
+                "Hickory Smoke - $8.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Ultra Mega Hip & Joint Large Breed Dog Chewable Tablets - Bacon",
+        "attributes": {
+            "size": [
+                "120 Count"
+            ],
+            "Flavor": [
+                "Bacon - $69.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GREENIES\u00ae Pill Pockets\u00ae Dog Treats for Tablets - Chicken",
+        "attributes": {
+            "size": [
+                "30 Count"
+            ],
+            "Flavor": [
+                "Chicken - $7.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Glandex\u00ae Boot the Scoot\u00ae Anal Gland Support Soft Chews",
+        "attributes": {
+            "size": [
+                "60 Count - $29.69"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GREENIES\u00ae Pill Pockets\u00ae Dog Treats for Tablets - Peanut Butter",
+        "attributes": {
+            "size": [
+                "30 Count"
+            ],
+            "Flavor": [
+                "Peanut Butter - $7.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GREENIES\u00ae Pill Pockets\u00ae Dog Treats for Tablets - Hickory Smoke",
+        "attributes": {
+            "size": [
+                "30 Count"
+            ],
+            "Flavor": [
+                "Hickory Smoke - $7.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GREENIES\u00ae Pill Pockets\u00ae Dog Treats for Capsules - Grain Free, Duck & Pea",
+        "attributes": {
+            "size": [
+                "25 Count"
+            ],
+            "Flavor": [
+                "Duck - $8.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Senior Hip & Joint Ages 7+ Dog Chewables",
+        "attributes": {
+            "size": [
+                "120 Count - $33.59",
+                "180 Count - $54.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Probiotic Blend Soft Dog Chews",
+        "attributes": {
+            "size": [
+                "60 Count - $18.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Ultra Mega Multivitamin Plus Senior Dog Chewable Tablets - Beef",
+        "attributes": {
+            "size": [
+                "60 Count",
+                "120 Count",
+                "180 Count"
+            ],
+            "Flavor": [
+                "Beef - $16.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Ultra Mega Probiotic Formula Chewable Dog Tablets - Beef",
+        "attributes": {
+            "size": [
+                "90 Count",
+                "180 Count"
+            ],
+            "Flavor": [
+                "Beef - $25.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Wild Alaskan Salmon Oil",
+        "attributes": {
+            "Size": [
+                "20 Fl Oz - $21.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "PetAg PetLac Puppy Milk Replacement",
+        "attributes": {
+            "Size": [
+                "32 Fl Oz - $7.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Cosequin\u00ae Minis Joint Health Supplement",
+        "attributes": {
+            "Size": [
+                "One Size - $20.60"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Complete Gut Health Probiotic + Enzyme Digestive Complex Powder",
+        "attributes": {
+            "Size": [
+                "3.5 Oz - $22.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Brewers Yeast with Garlic, B Vitamins, & Minerals Dog Chewa",
+        "attributes": {
+            "size": [
+                "1000 Count - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Ultra Mega Superfood Complex Dog Formula - Beef",
+        "attributes": {
+            "Size": [
+                "16 Oz"
+            ],
+            "Flavor": [
+                "Beef - $20.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Mega Fish Oil Advantage Dog Softgel Capsule",
+        "attributes": {
+            "size": [
+                "90 Count"
+            ],
+            "Flavor": [
+                "Other - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GREENIES\u00ae Pill Pockets\u00ae Dog Treats for Capsules - Cheese",
+        "attributes": {
+            "size": [
+                "30 Count - $8.99",
+                "60 Count - $16.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Dog MD Maximum Defense\u2122 ADVANCED Hip & Joint Dog Chewables",
+        "attributes": {
+            "size": [
+                "60 Count - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Ultra Mega Multivitamin Plus Probiotics Chewable Dog Tablets - Chicken",
+        "attributes": {
+            "size": [
+                "120 Count - $26.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Liquid-Vet\u00ae Hip & Joint Dog Formula",
+        "attributes": {
+            "Size": [
+                "8 Fl Oz",
+                "32 Fl Oz"
+            ],
+            "Flavor": [
+                "Chicken - $12.99",
+                "Pot Roast - $12.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Fish Oil Professional Strength",
+        "attributes": {
+            "Size": [
+                "8 Fl Oz - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Angels' Eyes Natural Tear Stain Pet Formula",
+        "attributes": {
+            "Size": [
+                "2.65 Oz",
+                "5.29 Oz"
+            ],
+            "Flavor": [
+                "Chicken - $11.19",
+                "Sweet Potato - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Ultra Mega Multivitamin Plus Mini Dog Bones - Chicken",
+        "attributes": {
+            "size": [
+                "60 Count"
+            ],
+            "Flavor": [
+                "Chicken - $21.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "NaturVet\u00ae GrassSaver\u00ae Biscuits",
+        "attributes": {
+            "Size": [
+                "10 Oz",
+                "22 Oz"
+            ],
+            "Flavor": [
+                "Peanut Butter - $12.29"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Naturals Fish Oil Dog Wafers",
+        "attributes": {
+            "Size": [
+                "8 Oz"
+            ],
+            "Flavor": [
+                "Chicken - $16.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Ultra Mega High Calorie Booster Dog Gel - Chicken",
+        "attributes": {
+            "Size": [
+                "5 Oz"
+            ],
+            "Flavor": [
+                "Chicken - $14.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Pet Pill Gun Dispenser",
+        "attributes": {
+            "size": [
+                "1 Count - $9.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Authority\u00ae Skin + Coat Adult Soft Dog Chews",
+        "attributes": {
+            "size": [
+                "60 Count - $16.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Get Up & Go Joint Senior Vitality Support Soft Dog Chews",
+        "attributes": {
+            "size": [
+                "60 Count - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "NaturVet\u00ae GrassSaver\u00ae Plus Enzymes Wafers",
+        "attributes": {
+            "size": [
+                "300 Count"
+            ],
+            "Flavor": [
+                "Natural - $20.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Canine Thyroid Wellness Chewable Tablets",
+        "attributes": {
+            "size": [
+                "90 Count - $20.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Adult Hip & Joint Dog Chewables",
+        "attributes": {
+            "size": [
+                "120 Count - $25.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Urinary Tract Homeopathic Remedy",
+        "attributes": {
+            "Size": [
+                "1 Fl Oz - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Ultra Mega Stool-No! Dog Coprophagia Formula",
+        "attributes": {
+            "size": [
+                "60 Count"
+            ],
+            "Flavor": [
+                "Other - $15.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Alaska Wild\u00ae Salmon Oil for Dogs",
+        "attributes": {
+            "Size": [
+                "18 Fl Oz - $22.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Salmon Oil Alaska Wild\u2122 Dog Softgels",
+        "attributes": {
+            "size": [
+                "90 Count - $16.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Authority\u00ae Hip + Joint Mature Soft Dog Chews",
+        "attributes": {
+            "Size": [
+                "One Size - $22.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Eye & Upper Respiratory Homeopathic Remedy",
+        "attributes": {
+            "Size": [
+                "1 Fl Oz - $29.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Glandex\u00ae Boot the Scoot\u00ae Anal Gland Support Powder",
+        "attributes": {
+            "Size": [
+                "5.5 Oz - $32.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Ultra Mega Multivitamin Plus Puppy Chewable Tablets - Beef",
+        "attributes": {
+            "size": [
+                "60 Count",
+                "120 Count"
+            ],
+            "Flavor": [
+                "Beef - $16.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Authority\u00ae Skin + Coat Adult Small Breed Soft Dog Chews",
+        "attributes": {
+            "size": [
+                "60 Count - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Authority\u00ae Multivitamin Adult Soft Dog Chews",
+        "attributes": {
+            "size": [
+                "60 Count - $16.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Easy Strider Daily Hip & Joint Soft Dog Chews",
+        "attributes": {
+            "size": [
+                "60 Count"
+            ],
+            "Flavor": [
+                "Bacon - $18.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Licks\u00ae Joint + Heart Dog Supplement",
+        "attributes": {
+            "size": [
+                "10 Count - $11.24",
+                "30 Count - $29.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Ultimate Daily Vitamin Bites Dog Soft Chews",
+        "attributes": {
+            "Size": [
+                "One Size - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Mega Multivitamin Chewable Dog Tablets",
+        "attributes": {
+            "size": [
+                "60 Count"
+            ],
+            "Flavor": [
+                "Beef - $12.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Licks\u00ae Littles Zen Calming Aid Supplements",
+        "attributes": {
+            "size": [
+                "10 Count - $12.99",
+                "30 Count - $29.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Licks\u00ae Littles\u2122 Multi-Vitamin Dog Supplements",
+        "attributes": {
+            "size": [
+                "10 Count - $9.74"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Licks\u00ae Senior Mobility Support Gummi Vits for Dogs",
+        "attributes": {
+            "size": [
+                "90 Count - $43.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Skin Wellness Maxium Skin & Coat Support Soft Chews",
+        "attributes": {
+            "size": [
+                "60 Count"
+            ],
+            "Flavor": [
+                "Bacon - $16.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Authority\u00ae Hip + Joint Adult Soft Dog Chews",
+        "attributes": {
+            "Size": [
+                "One Size - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Mega Stool-No! Dog Coprophagia Formula",
+        "attributes": {
+            "size": [
+                "120 Count"
+            ],
+            "Flavor": [
+                "Beef - $21.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "TropiClean\u00ae Life\u2122 Skin & Coat Dog Supplement",
+        "attributes": {
+            "Size": [
+                "2.5 FL Oz - $11.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Adult-Max Care Hip & Joint Soft Dog Chews",
+        "attributes": {
+            "size": [
+                "50 Count - $21.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Small Breed Alaska Wild\u00ae Salmon Oil Soft Dog Chews",
+        "attributes": {
+            "size": [
+                "100 Count - $9.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Allergy Support Dog Chewables",
+        "attributes": {
+            "size": [
+                "90 Count - $13.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Ultra Mega Hip & Joint Dog Chewable Tablets Small Breed - Beef",
+        "attributes": {
+            "size": [
+                "30 Count - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Licks\u00ae Urinary Tract Care for Dogs",
+        "attributes": {
+            "size": [
+                "30 Count - $39.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Small Breed Hip & Joint Ages 3+ Dog Chewables",
+        "attributes": {
+            "size": [
+                "60 Count - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Top Paw\u00ae Lawn Saver Premium Dog Supplements",
+        "attributes": {
+            "Flavor": [
+                "Liver - $25.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Pet Chews\u2122 Plus Maximum Daily Vitamin & Mineral Dog C",
+        "attributes": {
+            "size": [
+                "365 Count - $36.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Senior Ultimate Daily Vitamin Powder",
+        "attributes": {
+            "Size": [
+                "5.3 Oz - $23.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Ultra Mega Fish Oil Advantage Softgel Dog Capsules - Fish",
+        "attributes": {
+            "size": [
+                "90 Count",
+                "180 Count"
+            ],
+            "Flavor": [
+                "Fish - $29.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Solid Gold SeaMeal\u2122 Skin & Coat, Digestive & Immune Health Supplement",
+        "attributes": {
+            "Size": [
+                "1 Lb - $23.79"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Dog MD Maximum Defense\u2122 Joint Health Supplement - Standard Strength",
+        "attributes": {
+            "size": [
+                "75 Count - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Canine Bladder Control Chewable Tablets",
+        "attributes": {
+            "size": [
+                "90 Count - $32.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Brewer's Yeast & Garlic Chewable Tablets",
+        "attributes": {
+            "size": [
+                "300 Count - $12.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Adult Hip & Joint Ages 5+ Dog Chewables",
+        "attributes": {
+            "size": [
+                "60 Count - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Licks\u00ae Calming Healthy Gummi Fruities for Dogs",
+        "attributes": {
+            "size": [
+                "10 Count - $11.24"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "TropiClean\u00ae Life\u2122 Hip & Joint Collagen & Glucosamine Dog Supplement",
+        "attributes": {
+            "Size": [
+                "18 Fl Oz - $23.99",
+                "32 Fl Oz - $36.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Immune Balance Allergy Support Soft Dog Chews",
+        "attributes": {
+            "size": [
+                "60 Count - $24.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Authority\u00ae Hip + Joint Adult Large Breed Soft Dog Chews",
+        "attributes": {
+            "size": [
+                "50 Count - $22.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Ultra Mega Wild Salmon Oil Dog Formula",
+        "attributes": {
+            "Size": [
+                "8 Fl Oz",
+                "16 Fl Oz"
+            ],
+            "Flavor": [
+                "Salmon - $23.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Licks\u00ae Littles\u2122 ElderDog\u2122 Dog Supplements",
+        "attributes": {
+            "size": [
+                "10 Count - $12.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Cranberry Wellness Urinary Tract Support Powder",
+        "attributes": {
+            "Size": [
+                "One Size - $21.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Licks\u00ae Calming Healthy Gummi Veggies for Dogs",
+        "attributes": {
+            "size": [
+                "10 Count - $11.24"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Cosequin\u00ae ASU Active Lifestyle Joint Health Dog Supplement",
+        "attributes": {
+            "size": [
+                "60 Count - $26.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Licks\u00ae Skin & Allergy + Shiny Coat Gummi Vits for Dogs",
+        "attributes": {
+            "size": [
+                "90 Count - $43.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Probiotic Blend Intestinal Tract Support Capsules",
+        "attributes": {
+            "size": [
+                "90 Count - $23.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "HALO\u00ae Joint & Hip Support Supplement for Dogs",
+        "attributes": {
+            "Size": [
+                "3.5 Oz - $19.80"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Ultra Mega Wild Salmon Oil Dog Formula",
+        "attributes": {
+            "Size": [
+                "32 Fl Oz - $54.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Mega Fish Oil Advantage Softgel Dog Capsules - Fish",
+        "attributes": {
+            "size": [
+                "180 Count"
+            ],
+            "Flavor": [
+                "Fish - $32.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Licks\u00ae Littles\u2122 Calming Gummis for Dogs",
+        "attributes": {
+            "size": [
+                "45 Count - $36.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Ultra Mega Digestive Support Soft Dog Chews - Beef",
+        "attributes": {
+            "size": [
+                "60 Count - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "The Missing Link Well Blend Powder Pet Supplement",
+        "attributes": {
+            "Size": [
+                "1 Lb"
+            ],
+            "Flavor": [
+                "Other - $17.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Authority\u00ae Probiotic Adult Soft Dog Chews",
+        "attributes": {
+            "size": [
+                "60 Count - $18.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Incontinence Homeopathic Formula",
+        "attributes": {
+            "Size": [
+                "1 Fl Oz - $22.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Senior Chews\u2122 Daily Multi-Vitamin & Mineral Dog Chewa",
+        "attributes": {
+            "size": [
+                "90 Count - $10.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Small Breed Multi Vitamin Soft Dog Chews",
+        "attributes": {
+            "size": [
+                "100 Count - $9.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Vet's Best\u00ae Shed + Itch Healthy Coat Chewable Dog Tablets",
+        "attributes": {
+            "size": [
+                "50 Count - $8.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "NaturVet\u00ae GrassSaver\u00ae Plus Enzymes Soft Chews",
+        "attributes": {
+            "size": [
+                "120 Count - $14.59"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Whole Food Antioxidant Soft Dog Chews",
+        "attributes": {
+            "size": [
+                "60 Count - $24.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Get Up & Go Senior Vitality Support Chewable Tablets",
+        "attributes": {
+            "size": [
+                "90 Count - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Licks\u00ae ZEN\u2122 Calming Aid Dog Supplement",
+        "attributes": {
+            "size": [
+                "5 Count - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Diarrhea & Gas Homeopathic Remedy",
+        "attributes": {
+            "Size": [
+                "One Size - $19.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae B.S.S.T. Herbal Formula",
+        "attributes": {
+            "Size": [
+                "2 Fl Oz - $17.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Immune Strengthener Immune System Support Capsules",
+        "attributes": {
+            "size": [
+                "90 Count - $28.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Ultra Mega High Calorie Booster Puppy Formula - Chicken",
+        "attributes": {
+            "Size": [
+                "5 Fl Oz"
+            ],
+            "Flavor": [
+                "Chicken - $14.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "TropiClean\u00ae Life\u2122 Probiotic Dog Supplement",
+        "attributes": {
+            "Size": [
+                "2.5 FL Oz - $11.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae HW Protect Herbal Formula",
+        "attributes": {
+            "Size": [
+                "One Size - $23.29"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Aller-Free 7 Herbal Formula",
+        "attributes": {
+            "Size": [
+                "One Size - $17.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Vet's Best\u00ae Seasonal Allergy Support Chewable Dog Tablets",
+        "attributes": {
+            "size": [
+                "60 Count - $9.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Krill & Cod Liver Pure Oil Blend",
+        "attributes": {
+            "Size": [
+                "8 Fl Oz - $39.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "TropiClean\u00ae Life\u2122 Calming Aid Dog Supplement",
+        "attributes": {
+            "Size": [
+                "2.5 FL Oz - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "VetriScience\u00ae Derma Strength\u00ae Bites Soft Dog Chews",
+        "attributes": {
+            "size": [
+                "70 Count - $11.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Licks\u00ae Multi-Vitamin Feeding Aid Dog Supplement",
+        "attributes": {
+            "size": [
+                "10 Count - $11.24"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Vet's Best\u00ae Comfort Calm Chewable Dog Tablets",
+        "attributes": {
+            "size": [
+                "30 Count - $9.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Whole Food Antioxidant Blend Chewable Tablets",
+        "attributes": {
+            "size": [
+                "120 Count - $24.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Naturals Tender Dog Bites with Coconut Oil - Chicken",
+        "attributes": {
+            "size": [
+                "50 Count - $18.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "GNC Pets\u00ae Ultra Mega Multi-Strain Probiotic Chewable Dog Tablets - Pork",
+        "attributes": {
+            "size": [
+                "30 Count - $34.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Licks\u00ae Littles\u2122 Skin & Allergy + Shiny Coat Gummis for Dogs",
+        "attributes": {
+            "size": [
+                "45 Count - $36.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Pure Icelandic Salmon Oil",
+        "attributes": {
+            "Size": [
+                "20 Fl Oz - $27.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae EasyDefense\u2122 Herbal Essential Oil Blend",
+        "attributes": {
+            "Size": [
+                "2 Fl Oz - $15.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "HALO\u00ae Skin & Coat Support Supplement for Dogs",
+        "attributes": {
+            "Size": [
+                "3.5 Oz - $19.80"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "HALO\u00ae Sensitive Stomach Supplement for Dogs",
+        "attributes": {
+            "Size": [
+                "3.5 Oz - $19.80"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "HALO\u00ae Senior Dog Defense Supplement for Dogs",
+        "attributes": {
+            "Size": [
+                "3.5 Oz - $19.80"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "VetriScience\u00ae GlycoFlex\u00ae Plus Joint Support Soft Dog Chews",
+        "attributes": {
+            "size": [
+                "60 Count - $22.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Vet's Best\u00ae Multi-Vitamin Soft Dog Chews",
+        "attributes": {
+            "size": [
+                "30 Count - $17.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Licks\u00ae Littles\u2122 Multi-Vitamin Gummis for Dogs",
+        "attributes": {
+            "size": [
+                "45 Count - $27.74"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Licks\u00ae Littles\u2122 Senior Gummis for Dogs",
+        "attributes": {
+            "size": [
+                "45 Count - $27.74"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Adult Hip & Joint Ages 3+ Dog Chewables",
+        "attributes": {
+            "size": [
+                "60 Count - $16.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Dog MD\u2122 Maximum Defense Puppy Vitamins",
+        "attributes": {
+            "size": [
+                "60 Count - $14.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Dog MD Maximum Defense\u2122 Joint Health Supplement Plus Vitamins & Minerals - Advanced Strength",
+        "attributes": {
+            "size": [
+                "30 Count - $18.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Licks\u00ae Multi-Vitamin Pet Gummi Vits",
+        "attributes": {
+            "size": [
+                "90 Count - $43.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Bayer Expert Care\u2122 Dog Quad Dewormer Chewable Tablets - 2 Pack",
+        "attributes": {
+            "Size": [
+                "2 Lb - $21.99",
+                "26 Lb - $32.99",
+                "45 Lb - $49.49"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Lubri-Ease Plus Hip & Joint Chewable Tablets",
+        "attributes": {
+            "size": [
+                "90 Count - $34.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Ultimate Daily Vitamin Powder",
+        "attributes": {
+            "Size": [
+                "5.3 Oz - $16.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Only Natural Pet\u00ae Immune Balance & Immune System Support Capsules",
+        "attributes": {
+            "size": [
+                "90 Count - $24.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Licks\u00ae Athlete\u2122 Recovery Aid Supplement",
+        "attributes": {
+            "size": [
+                "5 Count - $11.91",
+                "15 Count - $28.53"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "Top Paw\u00ae Lawn Saver Supplements",
+        "attributes": {
+            "size": [
+                "500 Count"
+            ],
+            "Flavor": [
+                "Liver - $27.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "21st Century\u2122 Essential Pet\u2122 Adult Hip & Joint Ages 3+ Dog Chewables",
+        "attributes": {
+            "size": [
+                "120 Count - $29.99"
+            ]
+        }
+    },
+    {
+        "category": "Dental Care & Wellness",
+        "sub_category": "Vitamins & Supplements",
+        "product_name": "NaturVet\u00ae GrassSaver\u00ae Chew Tablets",
+        "attributes": {
+            "size": [
+                "500 Count"
+            ],
+            "Flavor": [
+                "Natural - $20.99"
+            ]
+        }
+    }
+]

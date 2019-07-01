@@ -1,0 +1,468 @@
+{
+    "Food": [
+        {
+            "name": "Canned Food",
+            "link": "https:\/\/www.petsmart.com\/dog\/food\/canned-food\/",
+            "count": "632"
+        },
+        {
+            "name": "Dry Food",
+            "link": "https:\/\/www.petsmart.com\/dog\/food\/dry-food\/",
+            "count": "814"
+        },
+        {
+            "name": "Food Toppers",
+            "link": "https:\/\/www.petsmart.com\/dog\/food\/food-toppers\/",
+            "count": "63"
+        },
+        {
+            "name": "Fresh Food",
+            "link": "https:\/\/www.petsmart.com\/dog\/food\/fresh-food\/",
+            "count": "14"
+        },
+        {
+            "name": "Frozen Food",
+            "link": "https:\/\/www.petsmart.com\/dog\/food\/frozen-food\/",
+            "count": "21"
+        },
+        {
+            "name": "Milk Replacers",
+            "link": "https:\/\/www.petsmart.com\/dog\/food\/milk-replacers\/",
+            "count": "9"
+        },
+        {
+            "name": "Veterinary Diets",
+            "link": "https:\/\/www.petsmart.com\/dog\/food\/veterinary-diets\/",
+            "count": "107"
+        }
+    ],
+    "Treats": [
+        {
+            "name": "Biscuits & Bakery",
+            "link": "https:\/\/www.petsmart.com\/dog\/treats\/biscuits-and-bakery\/",
+            "count": "120"
+        },
+        {
+            "name": "Bones & Rawhide",
+            "link": "https:\/\/www.petsmart.com\/dog\/treats\/bones-and-rawhide\/",
+            "count": "180"
+        },
+        {
+            "name": "Chewy Treats",
+            "link": "https:\/\/www.petsmart.com\/dog\/treats\/chewy-treats\/",
+            "count": "277"
+        },
+        {
+            "name": "Dental Treats",
+            "link": "https:\/\/www.petsmart.com\/dog\/treats\/dental-treats\/",
+            "count": "109"
+        },
+        {
+            "name": "Jerky",
+            "link": "https:\/\/www.petsmart.com\/dog\/treats\/jerky\/",
+            "count": "64"
+        },
+        {
+            "name": "Training Treats",
+            "link": "https:\/\/www.petsmart.com\/dog\/treats\/training-treats\/",
+            "count": "44"
+        }
+    ],
+    "Toys": [
+        {
+            "name": "Balls",
+            "link": "https:\/\/www.petsmart.com\/dog\/toys\/balls\/",
+            "count": "123"
+        },
+        {
+            "name": "Flying Toys",
+            "link": "https:\/\/www.petsmart.com\/dog\/toys\/flying-toys\/",
+            "count": "17"
+        },
+        {
+            "name": "Interactive Toys",
+            "link": "https:\/\/www.petsmart.com\/dog\/toys\/interactive-toys\/",
+            "count": "414"
+        },
+        {
+            "name": "Plush Toys",
+            "link": "https:\/\/www.petsmart.com\/dog\/toys\/plush-toys\/",
+            "count": "510"
+        },
+        {
+            "name": "Rope Toys",
+            "link": "https:\/\/www.petsmart.com\/dog\/toys\/rope-toys\/",
+            "count": "82"
+        },
+        {
+            "name": "Toy Boxes",
+            "link": "https:\/\/www.petsmart.com\/dog\/toys\/toy-boxes\/",
+            "count": "4"
+        }
+    ],
+    "Flea & Tick": [
+        {
+            "name": "Combs & Tools",
+            "link": "https:\/\/www.petsmart.com\/dog\/flea-and-tick\/combs-and-tools\/",
+            "count": "11"
+        },
+        {
+            "name": "Flea Shampoos & Dips",
+            "link": "https:\/\/www.petsmart.com\/dog\/flea-and-tick\/flea-shampoos-and-dips\/",
+            "count": "22"
+        },
+        {
+            "name": "Flea & Tick Collars",
+            "link": "https:\/\/www.petsmart.com\/dog\/flea-and-tick\/flea-and-tick-collars\/",
+            "count": "6"
+        },
+        {
+            "name": "Flea & Tick Pet Sprays",
+            "link": "https:\/\/www.petsmart.com\/dog\/flea-and-tick\/flea-and-tick-pet-sprays\/",
+            "count": "10"
+        },
+        {
+            "name": "Flea & Tick Pills",
+            "link": "https:\/\/www.petsmart.com\/dog\/flea-and-tick\/flea-and-tick-pills\/",
+            "count": "7"
+        },
+        {
+            "name": "Home & Yard Treatment",
+            "link": "https:\/\/www.petsmart.com\/dog\/flea-and-tick\/home-and-yard-treatment\/",
+            "count": "24"
+        },
+        {
+            "name": "Spot Ons",
+            "link": "https:\/\/www.petsmart.com\/dog\/flea-and-tick\/spot-ons\/",
+            "count": "63"
+        }
+    ],
+    "Dental Care & Wellness": [
+        {
+            "name": "Dental Care",
+            "link": "https:\/\/www.petsmart.com\/dog\/dental-care-and-wellness\/dental-care\/",
+            "count": "63"
+        },
+        {
+            "name": "Dental Treats",
+            "link": "https:\/\/www.petsmart.com\/dog\/dental-care-and-wellness\/dental-treats\/",
+            "count": "94"
+        },
+        {
+            "name": "Treatments",
+            "link": "https:\/\/www.petsmart.com\/dog\/dental-care-and-wellness\/treatments\/",
+            "count": "203"
+        },
+        {
+            "name": "Vitamins & Supplements",
+            "link": "https:\/\/www.petsmart.com\/dog\/dental-care-and-wellness\/vitamins-and-supplements\/",
+            "count": "142"
+        }
+    ],
+    "Cleaning Supplies": [
+        {
+            "name": "Furniture & Car Protection",
+            "link": "https:\/\/www.petsmart.com\/dog\/cleaning-supplies\/furniture-and-car-protection\/",
+            "count": "33"
+        },
+        {
+            "name": "Pet Hair Removers",
+            "link": "https:\/\/www.petsmart.com\/dog\/cleaning-supplies\/pet-hair-removers\/",
+            "count": "13"
+        },
+        {
+            "name": "Stain & Odor Removers",
+            "link": "https:\/\/www.petsmart.com\/dog\/cleaning-supplies\/stain-and-odor-removers\/",
+            "count": "71"
+        },
+        {
+            "name": "Vacuums",
+            "link": "https:\/\/www.petsmart.com\/dog\/cleaning-supplies\/vacuums\/",
+            "count": "2"
+        },
+        {
+            "name": "Waste Disposal",
+            "link": "https:\/\/www.petsmart.com\/dog\/cleaning-supplies\/waste-disposal\/",
+            "count": "55"
+        }
+    ],
+    "Crates, Gates & Containment": [
+        {
+            "name": "Backpacks",
+            "link": "https:\/\/www.petsmart.com\/dog\/crates-gates-and-containment\/backpacks\/",
+            "count": "17"
+        },
+        {
+            "name": "Car Barriers",
+            "link": "https:\/\/www.petsmart.com\/dog\/crates-gates-and-containment\/car-barriers\/",
+            "count": "7"
+        },
+        {
+            "name": "Car Booster Seats",
+            "link": "https:\/\/www.petsmart.com\/dog\/crates-gates-and-containment\/car-booster-seats\/",
+            "count": "17"
+        },
+        {
+            "name": "Carriers & Crates",
+            "link": "https:\/\/www.petsmart.com\/dog\/crates-gates-and-containment\/carriers-and-crates\/",
+            "count": "73"
+        },
+        {
+            "name": "Dog Doors & Gates",
+            "link": "https:\/\/www.petsmart.com\/dog\/crates-gates-and-containment\/dog-doors-and-gates\/",
+            "count": "100"
+        },
+        {
+            "name": "Fence Systems",
+            "link": "https:\/\/www.petsmart.com\/dog\/crates-gates-and-containment\/fence-systems\/",
+            "count": "25"
+        },
+        {
+            "name": "Houses & Pens",
+            "link": "https:\/\/www.petsmart.com\/dog\/crates-gates-and-containment\/houses-and-pens\/",
+            "count": "53"
+        },
+        {
+            "name": "Mat & Crate Covers",
+            "link": "https:\/\/www.petsmart.com\/dog\/crates-gates-and-containment\/mat-and-crate-covers\/",
+            "count": "50"
+        },
+        {
+            "name": "Strollers & Bicycle Baskets",
+            "link": "https:\/\/www.petsmart.com\/dog\/crates-gates-and-containment\/strollers-and-bicycle-baskets\/",
+            "count": "23"
+        }
+    ],
+    "Beds & Furniture": [
+        {
+            "name": "Ramps & Steps",
+            "link": "https:\/\/www.petsmart.com\/dog\/beds-and-furniture\/ramps-and-steps\/",
+            "count": "45"
+        },
+        {
+            "name": "Blankets",
+            "link": "https:\/\/www.petsmart.com\/dog\/beds-and-furniture\/blankets\/",
+            "count": "8"
+        },
+        {
+            "name": "Pet Memorials",
+            "link": "https:\/\/www.petsmart.com\/dog\/beds-and-furniture\/pet-memorials\/",
+            "count": "20"
+        },
+        {
+            "name": "Pillow Beds",
+            "link": "https:\/\/www.petsmart.com\/dog\/beds-and-furniture\/pillow-beds\/",
+            "count": "100"
+        },
+        {
+            "name": "Orthopedic Beds",
+            "link": "https:\/\/www.petsmart.com\/dog\/beds-and-furniture\/orthopedic-beds\/",
+            "count": "17"
+        },
+        {
+            "name": "Elevated Beds",
+            "link": "https:\/\/www.petsmart.com\/dog\/beds-and-furniture\/elevated-beds\/",
+            "count": "5"
+        },
+        {
+            "name": "Cuddler Beds",
+            "link": "https:\/\/www.petsmart.com\/dog\/beds-and-furniture\/cuddler-beds\/",
+            "count": "110"
+        },
+        {
+            "name": "Crate Mats",
+            "link": "https:\/\/www.petsmart.com\/dog\/beds-and-furniture\/crate-mats\/",
+            "count": "35"
+        },
+        {
+            "name": "Cooling & Heating Beds",
+            "link": "https:\/\/www.petsmart.com\/dog\/beds-and-furniture\/cooling-and-heating-beds\/",
+            "count": "14"
+        }
+    ],
+    "Bowls & Feeders": [
+        {
+            "name": "Automatic Feeders",
+            "link": "https:\/\/www.petsmart.com\/dog\/bowls-and-feeders\/automatic-feeders\/",
+            "count": "42"
+        },
+        {
+            "name": "Elevated Stands",
+            "link": "https:\/\/www.petsmart.com\/dog\/bowls-and-feeders\/elevated-stands\/",
+            "count": "11"
+        },
+        {
+            "name": "Placemats",
+            "link": "https:\/\/www.petsmart.com\/dog\/bowls-and-feeders\/placemats\/",
+            "count": "36"
+        },
+        {
+            "name": "Storage & Scoops",
+            "link": "https:\/\/www.petsmart.com\/dog\/bowls-and-feeders\/storage-and-scoops\/",
+            "count": "43"
+        },
+        {
+            "name": "Food & Water Bowls",
+            "link": "https:\/\/www.petsmart.com\/dog\/bowls-and-feeders\/food-and-water-bowls\/",
+            "count": "164"
+        }
+    ],
+    "Clothing & Shoes": [
+        {
+            "name": "Bandanas, Bows & Hats",
+            "link": "https:\/\/www.petsmart.com\/dog\/clothing-and-shoes\/bandanas-bows-and-hats\/",
+            "count": "150"
+        },
+        {
+            "name": "Costumes",
+            "link": "https:\/\/www.petsmart.com\/dog\/clothing-and-shoes\/costumes\/",
+            "count": "31"
+        },
+        {
+            "name": "Dresses",
+            "link": "https:\/\/www.petsmart.com\/dog\/clothing-and-shoes\/dresses\/",
+            "count": "28"
+        },
+        {
+            "name": "Life Jackets & Swim Suits",
+            "link": "https:\/\/www.petsmart.com\/dog\/clothing-and-shoes\/life-jackets-and-swim-suits\/",
+            "count": "6"
+        },
+        {
+            "name": "Shoes & Socks",
+            "link": "https:\/\/www.petsmart.com\/dog\/clothing-and-shoes\/shoes-and-socks\/",
+            "count": "30"
+        },
+        {
+            "name": "Sweaters & Coats",
+            "link": "https:\/\/www.petsmart.com\/dog\/clothing-and-shoes\/sweaters-and-coats\/",
+            "count": "95"
+        },
+        {
+            "name": "T-shirts & Tank Tops",
+            "link": "https:\/\/www.petsmart.com\/dog\/clothing-and-shoes\/t-shirts-and-tank-tops\/",
+            "count": "98"
+        },
+        {
+            "name": "Stress & Anxiety",
+            "link": "https:\/\/www.petsmart.com\/dog\/clothing-and-shoes\/stress-and-anxiety\/",
+            "count": "3"
+        },
+        {
+            "name": "Jerseys & Team Sports",
+            "link": "https:\/\/www.petsmart.com\/dog\/clothing-and-shoes\/jerseys-and-team-sports\/",
+            "count": "736"
+        }
+    ],
+    "Collars, Harnesses & Leashes": [
+        {
+            "name": "Collars",
+            "link": "https:\/\/www.petsmart.com\/dog\/collars-harnesses-and-leashes\/collars\/",
+            "count": "417"
+        },
+        {
+            "name": "Harnesses",
+            "link": "https:\/\/www.petsmart.com\/dog\/collars-harnesses-and-leashes\/harnesses\/",
+            "count": "220"
+        },
+        {
+            "name": "ID Tags",
+            "link": "https:\/\/www.petsmart.com\/dog\/collars-harnesses-and-leashes\/id-tags\/",
+            "count": "42"
+        },
+        {
+            "name": "Leashes",
+            "link": "https:\/\/www.petsmart.com\/dog\/collars-harnesses-and-leashes\/leashes\/",
+            "count": "270"
+        },
+        {
+            "name": "Tie Outs",
+            "link": "https:\/\/www.petsmart.com\/dog\/collars-harnesses-and-leashes\/tie-outs\/",
+            "count": "22"
+        },
+        {
+            "name": "Training Collars, Leashes & Harnesses",
+            "link": "https:\/\/www.petsmart.com\/dog\/collars-harnesses-and-leashes\/training-collars-leashes-and-harnesses\/",
+            "count": "23"
+        }
+    ],
+    "Grooming Supplies": [
+        {
+            "name": "Cologne & Deodorant",
+            "link": "https:\/\/www.petsmart.com\/dog\/grooming-supplies\/cologne-and-deodorant\/",
+            "count": "39"
+        },
+        {
+            "name": "Eye & Ear Care",
+            "link": "https:\/\/www.petsmart.com\/dog\/grooming-supplies\/eye-and-ear-care\/",
+            "count": "13"
+        },
+        {
+            "name": "Nail Clippers & Files",
+            "link": "https:\/\/www.petsmart.com\/dog\/grooming-supplies\/nail-clippers-and-files\/",
+            "count": "20"
+        },
+        {
+            "name": "Shampoos & Conditioners",
+            "link": "https:\/\/www.petsmart.com\/dog\/grooming-supplies\/shampoos-and-conditioners\/",
+            "count": "179"
+        },
+        {
+            "name": "Hair Clippers & Trimmers",
+            "link": "https:\/\/www.petsmart.com\/dog\/grooming-supplies\/hair-clippers-and-trimmers\/",
+            "count": "47"
+        },
+        {
+            "name": "Bathing Equipment",
+            "link": "https:\/\/www.petsmart.com\/dog\/grooming-supplies\/bathing-equipment\/",
+            "count": "15"
+        },
+        {
+            "name": "Brushes, Combs & Blowdryers",
+            "link": "https:\/\/www.petsmart.com\/dog\/grooming-supplies\/brushes-combs-and-blowdryers\/",
+            "count": "85"
+        }
+    ],
+    "Training & Behavior": [
+        {
+            "name": "Bark Control",
+            "link": "https:\/\/www.petsmart.com\/dog\/training-and-behavior\/bark-control\/",
+            "count": "18"
+        },
+        {
+            "name": "Clicker Training",
+            "link": "https:\/\/www.petsmart.com\/dog\/training-and-behavior\/clicker-training\/",
+            "count": "6"
+        },
+        {
+            "name": "Deterrents",
+            "link": "https:\/\/www.petsmart.com\/dog\/training-and-behavior\/deterrents\/",
+            "count": "14"
+        },
+        {
+            "name": "Monitors",
+            "link": "https:\/\/www.petsmart.com\/dog\/training-and-behavior\/monitors\/",
+            "count": "1"
+        },
+        {
+            "name": "Potty Training",
+            "link": "https:\/\/www.petsmart.com\/dog\/training-and-behavior\/potty-training\/",
+            "count": "40"
+        },
+        {
+            "name": "Training & Behavior Accessories",
+            "link": "https:\/\/www.petsmart.com\/dog\/training-and-behavior\/training-and-behavior-accessories\/",
+            "count": "52"
+        },
+        {
+            "name": "Training Collars, Leashes & Harnesses",
+            "link": "https:\/\/www.petsmart.com\/dog\/training-and-behavior\/training-collars-leashes-and-harnesses\/",
+            "count": "23"
+        },
+        {
+            "name": "Training Treats",
+            "link": "https:\/\/www.petsmart.com\/dog\/training-and-behavior\/training-treats\/",
+            "count": "27"
+        }
+    ]
+}
